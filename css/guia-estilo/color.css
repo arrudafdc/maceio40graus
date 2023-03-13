@@ -1,0 +1,17 @@
+:root {
+  --cor-destaque: #FD9800;
+  --cor-0: #FFF;
+  --cor-titulo-destaque: #FDCB00;
+}
+
+.cor-titulo-destaque {
+  color: var(--cor-titulo-destaque);
+}
+
+.cor-destaque {
+  color: var(--cor-destaque);
+}
+
+.cor-0 {
+  color: var(--cor-0);
+}

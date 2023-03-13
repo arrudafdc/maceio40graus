@@ -1,4 +1,8 @@
-@import url("./global.css");
-@import url("./header.css");
-@import url("./main.css");
+@import "./global.css";
+@import "./header.css";
+@import "./main.css";
+
+@import "./guia-estilo/color.css";
+@import "./guia-estilo/font.css";
+@import "./guia-estilo/components.css";
 

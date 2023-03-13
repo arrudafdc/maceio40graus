@@ -1,5 +1,7 @@
 $(function(){
   $(".destaques").slick({
+    // autoplay: true,
+    dots: true,
     prevArrow: $(".prev-arrow"),
     nextArrow: $(".next-arrow"),
     responsive: [
