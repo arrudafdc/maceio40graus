@@ -15,6 +15,7 @@ Projeto fullstack para uma empresa de cobertura fotográfica que também atua co
 * PHP
 * Sass
 * HTML
+* Bootstrap
 * Wordpress
 
 ## Autor
